@@ -1,1 +1,5 @@
 MacAudit is a lightweight macOS shell script designed to quickly audit laptop attributes and perform basic hardware checks. It provides a fast way to gather system information without needing heavy diagnostic software. The tool retrieves CPU, memory, storage, serial number, macOS version, and build details, while also reporting battery health including cycle count, wear level compared to design capacity, and manufacturing date. In addition, it can run simple hardware tests such as disk status and thermal sensor checks, along with basic network and connectivity diagnostics. Results are printed directly in Terminal and can be easily exported to text or JSON for reporting. This makes MacAudit useful for IT administrators auditing fleets of laptops, developers checking hardware health before deployments, and end users monitoring battery wear and lifespan without relying on third-party applications.
+
+
+Instructions
+Download the script to your Mac. Once downloaded, double click on the file to run it. The script may require an active internet connection in order to perform software updates and to open additional testing sites during the audit process.
